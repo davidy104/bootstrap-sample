@@ -1,0 +1,12 @@
+Typography
+http://getbootstrap.com/2.3.2/base-css.html
+
+1. use class h1(2,3,4) instead use <h1> element directly
+
+2. leadtext is for highlighing TEXT
+
+3. text-justify, text-right(center)
+
+4. blockquote
+
+Glyphicons
