@@ -13,3 +13,9 @@ Glyphicons
 
 Styling tables
 http://getbootstrap.com/css/#tables
+
+styling buttons
+http://getbootstrap.com/css/#buttons
+
+description list
+http://getbootstrap.com/css/#type-lists
